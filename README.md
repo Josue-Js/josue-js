@@ -10,7 +10,7 @@
 
 Olá, Eu sou apaixonado por desenvolver construir interfaces encontrar soluções para problemas é aprimorar minhas habilidades. Sou desenvolvedor de Front-End amo o que faço e gosto de bom desafio, atualmente estou cursando engenharia de software.
 
-Tem 20 anos com bastante vontade de aprender quando um problema, procuro ir atrás de uma solução. Tenho conhecimento em HTML, CSS, Sass, Javascript, React-js, React-native, Typescript, Styled-Component, Next.js, Python e NodeJs e tenho leve conhecimento em PHP 😃
+Tem 21 anos com bastante vontade de aprender quando encontro um problema, procuro ir atrás de uma solução. Tenho conhecimento em HTML, CSS, Sass, Javascript, React-js, React-native, Typescript, Styled-Component, Next.js, Python e NodeJs e tenho leve conhecimento em PHP 😃
 
 
 - 🌱 Estudando: Testes ...
