@@ -1,19 +1,17 @@
 
 
-### Oiiiii 👋 eu sou josué silva
+# Josué Silva
+
+
+###  Software Developer
 
 #
 
-### Front-end Software Developer
+Olá, Eu sou apaixonado por desenvolver construir interfaces, encontrar soluções para problemas e aprimorar minhas habilidades. Sou desenvolvedor de Front-End amo o que faço e gosto de bom desafio, atualmente estou cursando engenharia de software.
 
-#
-
-Olá, Eu sou apaixonado por desenvolver construir interfaces encontrar soluções para problemas é aprimorar minhas habilidades. Sou desenvolvedor de Front-End amo o que faço e gosto de bom desafio, atualmente estou cursando engenharia de software.
-
-Tem 21 anos com bastante vontade de aprender quando encontro um problema, procuro ir atrás de uma solução. Tenho conhecimento em HTML, CSS, Sass, Javascript, React-js, React-native, Typescript, Styled-Component, Next.js, Python e NodeJs e tenho leve conhecimento em PHP 😃
+Tenho bastante vontade de aprender quando encontro um problema, procuro ir atrás de uma solução. Tenho conhecimento em HTML, CSS, Sass, Javascript, React-js, React-native, Typescript, Styled-Component, Next.js, Python e NodeJs e tenho leve conhecimento em PHP 😃
 
 
-- 🌱 Estudando: Testes ...
 - 👯 Procuro: aprender e evoluir ...
 - 💬 Pergunte-me Filmes, series ...
 - 😄 Pronouns: ele/dele ...
@@ -43,5 +41,3 @@ Tem 21 anos com bastante vontade de aprender quando encontro um problema, procur
 
 #
 
-
-  <img height="60" width="190" src='https://camo.githubusercontent.com/28aae05a0fba45679e8e27d90609601e249b64a5fe30dfef05495de4f4e318d4/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67'  />
